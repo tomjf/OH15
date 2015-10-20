@@ -1,4 +1,4 @@
- var markers = [
+ \ [
          {
         "name" : "9 Parkside Avenue",
         "lat" : 51.428433,
@@ -348,6 +348,11 @@
         "name" : "Royal Geographical Society (with IBG)",
         "lat" : 51.501502,
         "lng" : -0.175269
+    },
+         {
+        "name" : "Royal Institution of Chartered Surveyors",
+        "lat" : FAILED,
+        "lng" : FAILED
     },
          {
         "name" : "Royal Liberty School (formerly Hare Hall)",
@@ -3809,4 +3814,6 @@
         "lat" : 51.516492,
         "lng" : -0.072337
     },
-]
+         ]
+}
+    
